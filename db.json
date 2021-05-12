@@ -1,9 +1,48 @@
 {
-  "items": [
+  "users": [
     {
       "id": 1,
-      "name": "first widget",
-      "description": "the first and only widget."
+      "title": "Software Engineer",
+      "role": "user",
+      "description": "Pending",
+      "firstName": "Kaleb",
+      "lastName": "Huddleston",
+      "email": "kaleb@users.com",
+      "password": "insecure",
+      "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/baires/128.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Engineering Manager",
+      "role": "manager",
+      "description": "Pending.",
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "email": "bob@users.com",
+      "password": "insecure",
+      "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/teeragit/128.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Nascar Driver",
+      "role": "user",
+      "description": "Pending",
+      "firstName": "Bobby",
+      "lastName": "Hendrix",
+      "email": "bobby@users.com",
+      "password": "insecure",
+      "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/baires/128.jpg"
+    },
+    {
+      "id": 4,
+      "role": "",
+      "title": "App Dev",
+      "description": "",
+      "firstName": "Skippy",
+      "lastName": "Lagume",
+      "email": "skippy@users.com",
+      "password": "Skippy",
+      "profilePic": ""
     }
   ]
 }
