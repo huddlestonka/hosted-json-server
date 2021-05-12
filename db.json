@@ -44,5 +44,121 @@
       "password": "Skippy",
       "profilePic": ""
     }
+  ],
+  "artists": [
+    {
+      "id": "5cd70be5-7953-4b0d-bbb4-da02e4f452b4",
+      "title": "Twenty One Pilots",
+      "genre": "Alternative hip hop",
+      "yearsActive": "2009-present",
+      "albums": [
+        {
+          "id": "14457d25-5e6c-49f3-97c3-b0c39e7539c6",
+          "title": "Twenty One Pilots",
+          "year": "2009",
+          "awards": ["Nope"],
+          "songs": ["Fall Away", "Taxi Cab", "Implicit Demand for Proof"]
+        },
+        {
+          "id": "5aa81ea6-97d2-4c39-a726-369f2bb5b523",
+          "title": "Regional at Best",
+          "year": "2011",
+          "awards": ["Not enough..."],
+          "songs": ["All the best"]
+        },
+        {
+          "id": "fc145c93-59f4-47b5-8a60-22eaa20264ba",
+          "title": "Vessel",
+          "year": "2013",
+          "awards": ["So many..."],
+          "songs": ["Holding on to You", "Migraine", "Car Radio", "Trees"]
+        },
+        {
+          "id": "bb0e0ff5-df5b-4df0-8eea-d3021329d5e1",
+          "title": "Blurryface",
+          "year": "2015",
+          "awards": ["Alt Press Album Of The Year", "Top Rock Album"],
+          "songs": ["Heavydirtysoul", "Stressed Out", "Ride"]
+        },
+        {
+          "id": "3d5b3f4a-af8a-4def-a381-a3c6d4db87b1",
+          "title": "Trench",
+          "year": "2018",
+          "awards": [
+            "Alt Press - 50 Best Albums of 2018",
+            "Billboard - The 50 Best Albums of 2018"
+          ],
+          "songs": ["Jumpsuit", "Levitate", "Morph"]
+        },
+        {
+          "id": "01126eb4-acba-4eb0-a2b3-5637eeff4ba7",
+          "title": "Scaled and Icy",
+          "year": "2021",
+          "awards": [""],
+          "songs": ["Good Day", "Choker", "Shy Away"]
+        }
+      ],
+      "singles": [
+        {
+          "id": "1e22036d-5227-4801-907e-3511eec4cda2",
+          "title": "Stressed Out",
+          "bpm": "86",
+          "duration": "3:22",
+          "key": "C",
+          "signature": "4/4"
+        },
+        {
+          "id": "61056248-2aaf-43b1-ba12-6f4076619a9b",
+          "title": "Ride",
+          "bpm": "152",
+          "duration": "3:34",
+          "key": "F",
+          "signature": "4/4"
+        }
+      ],
+      "labels": [
+        {
+          "id": "2c65fb81-d981-44ee-b36b-d0db6b08a9e5",
+          "title": "Fueled by Ramen"
+        }
+      ],
+      "members": ["Tyler Joseph", "Josh Dun"]
+    },
+    {
+      "id": "8f8c44a1-44a6-4c67-8923-477b5f5e8a48",
+      "title": "The Lumineers",
+      "genre": "Indie Folk",
+      "yearsActive": "2005-present"
+    },
+    {
+      "id": "a47ca0f4-e8ec-4a89-9e58-245a9612c95a",
+      "title": "American Football",
+      "genre": "Math Rock",
+      "yearsActive": "1997-2000 * 2014-present"
+    },
+    {
+      "id": "ddc2d95c-83ea-4c57-84e9-986fc162123f",
+      "title": "Bon Iver",
+      "genre": "Indie Folk",
+      "yearsActive": "2006-present",
+      "albums": [
+        {
+          "id": "47cc92b4-0406-478c-8071-65d6a41d62f8",
+          "title": "For Emma, Forever Ago"
+        },
+        {
+          "id": "073957d7-e8c1-499d-8c3d-3189645b4a6f",
+          "title": "Bon Iver"
+        },
+        {
+          "id": "cc6bbbcc-7581-44ad-96aa-842e60c27409",
+          "title": "22, A Million"
+        },
+        {
+          "id": "f1c770ee-72ee-4bf6-9059-f0e0ec119eae",
+          "title": "I, I"
+        }
+      ]
+    }
   ]
 }
