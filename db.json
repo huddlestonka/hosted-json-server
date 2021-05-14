@@ -260,7 +260,7 @@
       "id": "e8f6945a-f059-4f5d-ad7c-6b3763d92a70",
       "title": "Artist Dashboard",
       "details": "Perform CRUD operations on Artists",
-      "percentComplete": 90,
+      "percentComplete": 100,
       "approved": false
     },
     {
@@ -274,21 +274,21 @@
       "id": "e69753ef-4204-4a81-9324-a081422799f4",
       "title": "Projects Dashboard",
       "details": "Nx Ng NgRx Basic App Speed Test",
-      "percentComplete": 90,
+      "percentComplete": 99,
       "approved": false
     },
     {
       "id": "2d553ba3-aa74-433e-b4e0-7b7b6bc63d40",
-      "title": "App #5",
-      "details": "TBD",
-      "percentComplete": 0,
+      "title": "Foodie/Meals Dashboard",
+      "details": "Record your favorite meals with friends",
+      "percentComplete": 100,
       "approved": false
     },
     {
       "id": "676e1031-20b9-4934-8e0a-f68ac08d0b6a",
-      "title": "App #6",
-      "details": "TBD",
-      "percentComplete": 0,
+      "title": "Comic Collector Dashboard",
+      "details": "Catalog your growing comic collection",
+      "percentComplete": 90,
       "approved": false
     },
     {
